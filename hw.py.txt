@@ -2,3 +2,5 @@ a = input("say")
 print ("Any information")
 	if (a = 5):
 		print ("5")
+
+print("oks")
